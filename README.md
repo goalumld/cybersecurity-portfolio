@@ -4,4 +4,6 @@ Hello, my name is Andrew and thank you for taking the time to view my cybersecur
 # CTF Experience
 National Cyber League Fall 2025 Capture the Flag Event
   - Challenges included Scanning and Reconnaisance, Cryptography, Password Cracking, Forensics, and more.
+  - Placed 213th out of 4212 teams.
   - One key takeaway is that success in cybersecurity relies heavily on teamwork. There were many moments when either I or another team member needed help with a challenge, and someone else stepped in to support and collaborate so the task could be completed effectively.
+  - View the scouting report [here](https://drive.google.com/file/d/1gBwVaeJIkDJjdW1EsDksi6BWSG60nsmE)
